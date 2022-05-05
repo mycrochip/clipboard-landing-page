@@ -27,10 +27,14 @@ Users should be able to:
 
 
 ### Screenshot
+
 - Mobile view - 375px
+
 ![Mobile view](images/screenshot--mobile--a.jpg) ![Mobile view](images/screenshot--mobile--b.jpg) ![Mobile view](images/screenshot--mobile--c.jpg)
 
+
 - Desktop view - 1440px
+
 ![Desktop view](images/screenshot--desktop--a.jpg) ![Desktop view](images/screenshot--desktop--b.jpg)
 
 
