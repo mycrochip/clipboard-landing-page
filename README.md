@@ -53,13 +53,13 @@ Users should be able to:
 
 ### What I learned
 
-This is the first website I will build with a height more than 100vh (Standard viewport height).
-I really worked hard to make sure that the content rendered in screen views were relevant and the components on the page were displayed in a reasonable position relative to the screen.
+This is the first website I will build with a height of more than 100vh (Standard viewport height).
+I really worked hard to make sure that the contents rendered in screen views were relevant and that the components on the page were displayed in a reasonable position relative to the screen.
 
 
 ### Continued development
 
-I will continue to sharpen my HTML and CSS skils before touching a line of JavaScript. This is the pah I believe will make me most efficient in mastering front-end development.
+I will continue to sharpen my HTML and CSS skills before touching a line of JavaScript. This is the path I believe will make me most efficient in mastering front-end development.
 By the way, time to take on more challenges on [Frontend Mentor](https://www.frontendmentor.io)
 
 
